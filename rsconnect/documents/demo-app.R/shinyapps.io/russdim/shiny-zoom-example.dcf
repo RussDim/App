@@ -1,0 +1,14 @@
+name: shiny-zoom-example
+title: shiny-zoom-example
+username:
+account: russdim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8344750
+bundleId: 6858521
+url: https://russdim.shinyapps.io/shiny-zoom-example/
+when: 1676651628.83815
+lastSyncTime: 1676651628.83818
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|helper.R
